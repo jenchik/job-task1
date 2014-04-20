@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Lobodin Task1 for Veeam\n"
+"POT-Creation-Date: 2014-04-20 22:24+0400\n"
+"PO-Revision-Date: 2014-04-20 22:24+0400\n"
+"Last-Translator: \n"
+"Language-Team: Lobodin <lobodin@gmail.com>\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: translate\n"
+"X-Poedit-SearchPath-0: D:\\Users\\Documents\\_work\\_projects"
+"\\veeam_task1\\module\\Task1\\view\\task1\\task\n"
+"X-Poedit-SearchPath-1: D:\\Users\\Documents\\_work\\_projects"
+"\\veeam_task1\\module\\Application\\view\\layout\n"
+
+#: D:\Users\Documents\_work\_projects\veeam_task1\module\Application\view\layout/layout.phtml:14
+msgid "Home"
+msgstr "Домой"
+
+#: D:\Users\Documents\_work\_projects\veeam_task1\module\Task1\view\task1\task/index.phtml:6
+msgid "Vacancies"
+msgstr "Вакансии"
+
+#: D:\Users\Documents\_work\_projects\veeam_task1\module\Task1\view\task1\task/index.phtml:9
+msgid "Language"
+msgstr "Язык"
+
+#: D:\Users\Documents\_work\_projects\veeam_task1\module\Task1\view\task1\task/index.phtml:13
+msgid "Filter"
+msgstr "Фильтр"
+
+#: D:\Users\Documents\_work\_projects\veeam_task1\module\Task1\view\task1\task/index.phtml:30
+msgid "Department"
+msgstr "Отдел"
+
+#: D:\Users\Documents\_work\_projects\veeam_task1\module\Task1\view\task1\task/index.phtml:31
+msgid "Name"
+msgstr "Название"
+
+#: D:\Users\Documents\_work\_projects\veeam_task1\module\Task1\view\task1\task/index.phtml:32
+msgid "Description"
+msgstr "Описание"

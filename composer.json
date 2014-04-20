@@ -1,0 +1,16 @@
+{
+    "name": "jenchik/job-task1",
+    "description": "Job Task 1",
+    "keywords": [
+        "framework",
+        "zf2"
+    ],
+    "homepage": "http://framework.zend.com/",
+    "require": {
+        "php": ">=5.3.3",
+        "zendframework/zendframework": "2.*",
+	"doctrine/orm": "2.*",
+	"doctrine/dbal": "2.*",
+	"doctrine/doctrine-orm-module": "0.*"
+    }
+}
